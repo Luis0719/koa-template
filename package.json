@@ -1,0 +1,23 @@
+{
+  "name": "koa-template",
+  "version": "1.0.0",
+  "description": "Koa template",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/Luis0719/koa-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Luis0719/koa-template/issues"
+  },
+  "homepage": "https://github.com/Luis0719/koa-template#readme",
+  "dependencies": {
+    "koa": "^2.14.2"
+  }
+}
